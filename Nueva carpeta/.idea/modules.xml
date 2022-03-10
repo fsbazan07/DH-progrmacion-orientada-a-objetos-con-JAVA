@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Camion/Camion.iml" filepath="$PROJECT_DIR$/Camion/Camion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Nueva carpeta.iml" filepath="$PROJECT_DIR$/.idea/Nueva carpeta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/empresa/empresa.iml" filepath="$PROJECT_DIR$/empresa/empresa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/herencia/herencia.iml" filepath="$PROJECT_DIR$/herencia/herencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/relacion_de_clases/relacion_de_clases.iml" filepath="$PROJECT_DIR$/relacion_de_clases/relacion_de_clases.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>

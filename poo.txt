@@ -1,0 +1,1 @@
+Acuerdense que en las hijas cuando hagan override del toString() pueden llamar al toString() de la padre haciendo super.toString(). Así muestran todos los datos en la hija (los atributos del padre y de la hija)
